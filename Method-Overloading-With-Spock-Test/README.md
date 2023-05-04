@@ -7,3 +7,5 @@ A demo project for Java method overloading with Spock unit test framework.
   - org.sjw19206.arithmetic.OperationAddition (Main Class)
 + Test
   - org.sjw19206.arithmetic.OperationAdditionSpec (Unit test specification)
++ Resouces
+  - log4j2.properties
