@@ -1,0 +1,42 @@
+2023-05-04 16:37:02,506 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - setupSpec()
+2023-05-04 16:37:02,529 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - setup()
+2023-05-04 16:37:02,581 INFO org.sjw19206.arithmetic.OperationAddition [Test worker] Exec - Constructor : OperationAddition() :: 
+2023-05-04 16:37:02,588 DEBUG org.sjw19206.arithmetic.OperationAddition [Test worker] Adding int variables :: 20 & 5
+2023-05-04 16:37:02,603 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - cleanup()
+2023-05-04 16:37:02,624 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - setup()
+2023-05-04 16:37:02,625 INFO org.sjw19206.arithmetic.OperationAddition [Test worker] Exec - Constructor : OperationAddition() :: 
+2023-05-04 16:37:02,628 DEBUG org.sjw19206.arithmetic.OperationAddition [Test worker] Adding int variables :: 50 & 5
+2023-05-04 16:37:02,629 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - cleanup()
+2023-05-04 16:37:02,638 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - setup()
+2023-05-04 16:37:02,639 INFO org.sjw19206.arithmetic.OperationAddition [Test worker] Exec - Constructor : OperationAddition() :: 
+2023-05-04 16:37:02,641 DEBUG org.sjw19206.arithmetic.OperationAddition [Test worker] Adding int variables :: 45 & 5
+2023-05-04 16:37:02,642 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - cleanup()
+2023-05-04 16:37:02,646 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - setup()
+2023-05-04 16:37:02,647 INFO org.sjw19206.arithmetic.OperationAddition [Test worker] Exec - Constructor : OperationAddition() :: 
+2023-05-04 16:37:02,658 DEBUG org.sjw19206.arithmetic.OperationAddition [Test worker] Adding double variables :: 45.7 & 34.8
+2023-05-04 16:37:02,666 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - cleanup()
+2023-05-04 16:37:02,672 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - setup()
+2023-05-04 16:37:02,673 INFO org.sjw19206.arithmetic.OperationAddition [Test worker] Exec - Constructor : OperationAddition() :: 
+2023-05-04 16:37:02,675 DEBUG org.sjw19206.arithmetic.OperationAddition [Test worker] Adding double variables :: 34.0 & 50.5
+2023-05-04 16:37:02,678 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - cleanup()
+2023-05-04 16:37:02,804 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - setup()
+2023-05-04 16:37:02,804 INFO org.sjw19206.arithmetic.OperationAddition [Test worker] Exec - Constructor : OperationAddition() :: 
+2023-05-04 16:37:02,805 DEBUG org.sjw19206.arithmetic.OperationAddition [Test worker] Adding int variables :: 20 & 45
+2023-05-04 16:37:02,806 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - cleanup()
+2023-05-04 16:37:02,810 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - setup()
+2023-05-04 16:37:02,811 INFO org.sjw19206.arithmetic.OperationAddition [Test worker] Exec - Constructor : OperationAddition() :: 
+2023-05-04 16:37:02,812 DEBUG org.sjw19206.arithmetic.OperationAddition [Test worker] Adding double variables :: 45.9 & 35.75
+2023-05-04 16:37:02,815 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - cleanup()
+2023-05-04 16:37:02,818 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - setup()
+2023-05-04 16:37:02,818 INFO org.sjw19206.arithmetic.OperationAddition [Test worker] Exec - Constructor : OperationAddition() :: 
+2023-05-04 16:37:02,819 DEBUG org.sjw19206.arithmetic.OperationAddition [Test worker] Adding double variables :: 99.0 & 45.99
+2023-05-04 16:37:02,820 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - cleanup()
+2023-05-04 16:37:02,825 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - setup()
+2023-05-04 16:37:02,826 INFO org.sjw19206.arithmetic.OperationAddition [Test worker] Exec - Constructor : OperationAddition() :: 
+2023-05-04 16:37:02,827 DEBUG org.sjw19206.arithmetic.OperationAddition [Test worker] Adding double variables :: 12.4 & 17.6
+2023-05-04 16:37:02,827 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - cleanup()
+2023-05-04 16:37:02,829 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - setup()
+2023-05-04 16:37:02,830 INFO org.sjw19206.arithmetic.OperationAddition [Test worker] Exec - Constructor : OperationAddition() :: 
+2023-05-04 16:37:02,831 DEBUG org.sjw19206.arithmetic.OperationAddition [Test worker] Adding int variables :: 34 & 45
+2023-05-04 16:37:02,832 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - cleanup()
+2023-05-04 16:37:02,834 INFO org.sjw19206.arithmetic.OperationAdditionSpec [Test worker] Exec - cleanupSpec()
